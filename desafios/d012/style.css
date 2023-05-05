@@ -70,7 +70,7 @@ h1 {
     position: relative;
     height: 500px;
     width: auto;
-    background: green url('imagens/background001.jpg') center center no-repeat fixed;
+    background: url('imagens/background001.jpg') center center no-repeat fixed;
     background-size: cover;
     margin-top: 30px;
 }
@@ -79,7 +79,7 @@ h1 {
     position: relative;
     height: 500px;
     width: auto;
-    background: green url('imagens/background002.jpg') center center/ cover no-repeat fixed;
+    background: url('imagens/background002.jpg') center center/ cover no-repeat fixed;
     margin-top: 30px;
 }
 
