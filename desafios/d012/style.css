@@ -48,7 +48,7 @@ h1 {
 
 #paragrafo-img1 {
     position: absolute;
-    top: 23%;
+    top: 14%;
     background-color: rgba(0, 0, 0, 0.308);
     color: white;
     margin-top: 10px;
@@ -58,7 +58,7 @@ h1 {
 
 #paragrafo-img2 {
     position: absolute;
-    top: 23%;
+    top: 14%;
     background-color: rgba(0, 0, 0, 0.308);
     color: white;
     margin-top: 10px;
@@ -68,7 +68,7 @@ h1 {
 
 #div-img1 {
     position: relative;
-    height: 700px;
+    height: 500px;
     width: auto;
     background: green url('imagens/background001.jpg') center center no-repeat fixed;
     background-size: cover;
@@ -77,7 +77,7 @@ h1 {
 
 #div-img2 {
     position: relative;
-    height: 700px;
+    height: 500px;
     width: auto;
     background: green url('imagens/background002.jpg') center center/ cover no-repeat fixed;
     margin-top: 30px;
