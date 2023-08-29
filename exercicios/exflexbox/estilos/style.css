@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: rgb(109, 109, 243);
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+div {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    font-size: 2em;
+}
+
+div.bloco1 {
+    background-color: rgb(157, 212, 212);
+}
+
+div.bloco2 {
+    background-color: rgba(172, 255, 47, 0.61);
+}
+
+div.bloco3 {
+    background-color: rgba(165, 42, 42, 0.705);
+}
+
+div p {
+    text-align: center;
+    padding-top: 79px;
+}
